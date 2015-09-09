@@ -15,8 +15,7 @@
 Windows: <a href="http://catalog.update.microsoft.com/v7/site/ScopedViewRedirect.aspx?updateid=032a878e-8ca0-40d2-b7b1-936640b0eecb">Download link</a>
 
 ## Note
-+ 可能會碰到的問題, readline卡住
->詳情: https://hitcon.hackpad.com/IoT-nano--Fx9aehf98Y9#:h=UBUNTU-OS-實務上遇到的問題和解法:
++ 可能會碰到的問題, readline卡住 詳情: <a href="https://hitcon.hackpad.com/IoT-nano--Fx9aehf98Y9#:h=UBUNTU-OS-實務上遇到的問題和解法:">Link</a>
 
 + ans game1 是暴力解, 做了201次, 第28次拿到key, 一切都是命阿 ( ▔___▔)y-～
   ```shell
