@@ -19,9 +19,9 @@ Windows: <a href="http://catalog.update.microsoft.com/v7/site/ScopedViewRedirect
 >詳情: https://hitcon.hackpad.com/IoT-nano--Fx9aehf98Y9#:h=UBUNTU-OS-實務上遇到的問題和解法:
 
 + ans game1 是暴力解, 做了201次, 第28次拿到key, 一切都是命阿 ( ▔___▔)y-～
-```shell
-for /l %x in (1, 1, 100) do ruby ans.rb >> tmp.log
-```
+  ```shell
+  for /l %x in (1, 1, 100) do ruby ans.rb >> tmp.log
+  ```
 
 ![alt tag](https://github.com/frsnic/arduino-nano-with-ruby/blob/master/game1.png)
 
